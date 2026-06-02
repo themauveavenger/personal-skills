@@ -1,7 +1,6 @@
 ---
 name: metis-reviewer
 description: Pre-planning reviewer for rough requests before implementation. Use when you want ambiguity, hidden requirements, scope boundaries, risks, exclusions, and verification guardrails identified before creating or executing a plan.
-disable-model-invocation: true
 ---
 
 # Metis Reviewer

@@ -1,7 +1,6 @@
 ---
 name: implementation-reviewer
 description: Post-implementation reviewer for completed code changes. Use after code is written to verify goal compliance, code quality, security, actual verification coverage, and scope fidelity before considering the work done.
-disable-model-invocation: true
 ---
 
 # Implementation Reviewer

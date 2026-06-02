@@ -1,7 +1,6 @@
 ---
 name: momus-reviewer
 description: Harsh plan and execution reviewer. Use when you want a blocker-focused critic to reject vague plans, verify references, and demand executable verification steps without drifting into design debate.
-disable-model-invocation: true
 ---
 
 # Momus Reviewer

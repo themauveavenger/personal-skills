@@ -1,7 +1,6 @@
 ---
 name: oracle-reviewer
 description: Strategic technical reviewer for architecture, code review, hard debugging, and implementation decisions. Use when you want one clear recommendation, key trade-offs, and a concise action plan without drifting into implementation.
-disable-model-invocation: true
 ---
 
 # Oracle Reviewer
